@@ -1,0 +1,13 @@
+
+  -------------------------------------------------------------------
+                Tensorflow Lite Model Training
+  -------------------------------------------------------------------
+1. conda activate Tflite_Trainer
+2. Add images to data/raw folder
+3. Run command to resize images:
+
+   python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg --target-size "(800, 600)"
+
+
+4. Navigate to data/images, there your will find resized images split them into training and test
+5. 
