@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Fling-17.jpg</filename>
+	<path>C:\Users\ML-Training\Documents\GitHub\tflite_training_test\data\images\train\Fling-17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4350</width>
+		<height>6720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1193</xmin>
+			<ymin>410</ymin>
+			<xmax>3164</xmax>
+			<ymax>3238</ymax>
+		</bndbox>
+	</object>
+</annotation>
